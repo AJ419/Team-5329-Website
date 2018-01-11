@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://static.pexels.com/photos/14676/pexels-photo-14676.png"); /* placeholder image*/
+    color: white;
+    background-attachment: fixed; /* This keeps the attached image fixed*/
+}
+
+img{
+    max-width:100%;
+    max-height:100%;
+}
+
