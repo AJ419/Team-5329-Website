@@ -1,11 +1,11 @@
-/* Backup link: 
+/* Backup link:
     https://work.smarchal.com/twbscolor/4.0.0-beta/css/0000000e0e0eecf0f19b97971
 */
 
 
 
 .navbar {
-  background-color: #000000;
+  background-color: #050b0f;
 }
 .navbar .navbar-brand {
   color: #ecf0f1;
@@ -27,8 +27,8 @@
   color: #9b9797;
 }
 .navbar .navbar-nav .dropdown-menu {
-  background-color: #000000;
-  border-color: #0e0e0e;
+  background-color: #050b0f;
+  border-color: #050b0f;
 }
 .navbar .navbar-nav .dropdown-menu .dropdown-item {
   color: #ecf0f1;
@@ -37,10 +37,10 @@
 .navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
 .navbar .navbar-nav .dropdown-menu .dropdown-item.active {
   color: #9b9797;
-  background-color: #0e0e0e;
+  background-color: #050b0f;
 }
 .navbar .navbar-nav .dropdown-menu .dropdown-divider {
-  border-top-color: #0e0e0e;
+  border-top-color: #050b0f;
 }
 .navbar .navbar-nav .nav-item.active .nav-link,
 .navbar .navbar-nav .nav-item.active .nav-link:hover,
@@ -49,14 +49,14 @@
 .navbar .navbar-nav .nav-item.show .nav-link:hover,
 .navbar .navbar-nav .nav-item.show .nav-link:focus {
   color: #9b9797;
-  background-color: #0e0e0e;
+  background-color: #050b0f;
 }
 .navbar .navbar-toggle {
-  border-color: #0e0e0e;
+  border-color: #050b0f;
 }
 .navbar .navbar-toggle:hover,
 .navbar .navbar-toggle:focus {
-  background-color: #0e0e0e;
+  background-color: #050b0f;
 }
 .navbar .navbar-toggle .navbar-toggler-icon {
   color: #ecf0f1;
@@ -82,7 +82,7 @@
   }
   .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #9b9797;
-    background-color: #0e0e0e;
+    background-color: #050b0f;
   }
 }
 
@@ -96,7 +96,7 @@
   }
   .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #9b9797;
-    background-color: #0e0e0e;
+    background-color: #050b0f;
   }
 }
 
@@ -110,7 +110,7 @@
   }
   .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #9b9797;
-    background-color: #0e0e0e;
+    background-color: #050b0f;
   }
 }
 
@@ -124,7 +124,7 @@
   }
   .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #9b9797;
-    background-color: #0e0e0e;
+    background-color: #050b0f;
   }
 }
 
@@ -137,5 +137,5 @@
 }
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
   color: #9b9797;
-  background-color: #0e0e0e;
+  background-color: #050b0f;
 }
