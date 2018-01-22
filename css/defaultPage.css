@@ -1,0 +1,40 @@
+body{
+    background-color: #171717;
+    color: white;
+    padding-top: 70px;
+}
+
+#shieldLogoOnPage{
+    position: fixed;
+    width: 100%;
+    text-align: right;
+    bottom: 0px;
+}
+
+@media (max-width: 767.98px) {
+  #right {
+    display: none;
+  }
+}
+
+@media (min-width: 768px){
+    #right {
+        position: fixed;
+        top: 70px;
+        bottom: 0;
+    }
+}
+
+#right{
+  color: white;
+  background-color: transparent;
+}
+
+#right a:visited{
+  color:white;
+  background-color: transparent;
+}
+
+#right ul{
+    list-style: none;
+}
