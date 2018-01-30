@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://hdqwalls.com/download/agents-of-shield-logo-2048x1152.jpg"); /* placeholder image*/
+    background-image: url("../img/background.jpg"); /* placeholder image*/
     color: white;
     background-attachment: fixed; /* This keeps the attached image fixed*/
 }
