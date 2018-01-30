@@ -9,19 +9,27 @@ body{
     width: 100%;
     text-align: right;
     bottom: 0px;
+    z-index:-1;
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 767.98px) { /* Any screen less than 768px will not see the shied logo*/
+  #shieldLogoOnPage {
+    display: none;
+  }
+}
+
+@media (max-width: 767.98px) { /* Any screen less than 768px will not see the menu*/
   #right {
     display: none;
   }
 }
 
-@media (min-width: 768px){
+@media (min-width: 768px){ /* Any screen larger than 768px will see the menu*/
     #right {
         position: fixed;
         top: 70px;
         bottom: 0;
+        
     }
 }
 
